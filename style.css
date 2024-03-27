@@ -1,0 +1,9 @@
+body {
+  backgound-color: red;
+  margin: 10px;
+}
+
+div {
+  padding: 10px;
+  border: 2px solid black;
+}
