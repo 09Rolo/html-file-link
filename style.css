@@ -1,9 +1,12 @@
 body {
-  backgound-color: red;
-  margin: 10px;
+    background-color: red;
+    margin: 10px;
 }
 
 div {
-  padding: 10px;
-  border: 2px solid black;
+    padding: 10px;
+    border: 1px solid black;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
 }
